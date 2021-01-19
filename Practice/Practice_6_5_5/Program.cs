@@ -5,7 +5,7 @@ using MathNet.Numerics.LinearAlgebra.Double;
 namespace Practice_6_5_5
 {
     /// <summary>
-    /// 書籍「ゲーム開発者のための物理・数学入門」より
+    /// 書籍「ゲーム開発のための数学・物理学入門」より
     /// </summary>
     class Program
     {
