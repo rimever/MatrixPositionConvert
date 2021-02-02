@@ -1,2 +1,2 @@
 # MatrixPositionConvert
-マトリックを用いた座標変換
+マトリックスを用いた座標変換
